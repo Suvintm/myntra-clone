@@ -1,2 +1,3 @@
 # myntra-clone
-This is a clone of myntra web
+This is a clone of myntra website 
+....
